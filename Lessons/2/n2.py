@@ -5,4 +5,4 @@ def gen_mass(n):
         cash.append(random.randint(0,10))
     return cash
 
-print(gen_mass(34)[2:4])
+print(gen_mass(34))

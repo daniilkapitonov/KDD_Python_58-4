@@ -16,4 +16,4 @@ def hello(name, time):
 
 
 a = hello("daniil", "12:00")
-print(hello("daniil", "12:00"))
+print(a)
